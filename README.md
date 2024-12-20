@@ -18,6 +18,7 @@ The program will:
 - "*Internal*" contains files used for passing information between C and Python. They are automatically edited by the program and should not be manually modified (.csv files)
 - "*Code*" contains program code
 - "*Output*" contains saved .png files
+- We include two "*helloworld.py*" codes to make appear the wished folder. Just ignore them. 
 
 ### Inputs and Outputs
 
