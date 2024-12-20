@@ -138,14 +138,14 @@ csv 1.0
 
 ### Data
 
-As the datasets used were small, it was quicker to write them by hand. You'll find the sources from which we found these temperature, density and initial population readings in the report.
+As the datasets used were small, it was quicker to write them by hand. You'll find the sources from which we found these temperature, density and initial population readings in Reports -> Report.pdf.
 
 
 
 
 ### Formulae
 
-We find the model of differential system equations in the folder Sources.
+We find the model of differential system equations in the folder Main_Sources.
 All the formula for the linear regression are from : "https://www.youtube.com/c/MachineLearnia"
 
 
