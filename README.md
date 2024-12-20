@@ -144,5 +144,6 @@ As the datasets used were small, it was quicker to write them by hand. You'll fi
 ### Formulae
 
 We find the model of differential system equations in the folder Sources.
+All the formula for the linear regression are from : "https://www.youtube.com/c/MachineLearnia"
 
 
