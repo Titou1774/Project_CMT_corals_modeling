@@ -92,13 +92,19 @@ Outputs:
 
 To reproduce results in the report, four steps should be followed:
 1. Navigate to the "*ecosystem_simulation.c*" function located in the "*Code*" directory. The function contains commented instructions for the user to modify input parameters. Modify as desired. Compile this code by using the following command:
-                               - gcc Code/ecosystem_simulation.c -lm
+2. 
+                                gcc Code/ecosystem_simulation.c -lm
+   
 Then, write this command in the terminal:
-                               - ./a.out
+
+                                ./a.out
+                                
 You should have csv files in Internal folder.
-3. Open makefile file, change line 16 (PYTHON variable) by your python path.
-4. Write:
-                 - make
+4. Open makefile file, change line 16 (PYTHON variable) by your python path.
+5. Write:
+
+                  make
+                  
 in the makefile terminal. The programm will run automatically, you should see 5 figures popping, stocked in Output folder. 
 
 
