@@ -101,8 +101,9 @@ Then, write this command in the terminal:
                                 ./a.out
                                 
 You should have csv files in Internal folder.
-4. Open makefile file, change line 16 (PYTHON variable) by your python path.
-5. Write:
+
+3. Open makefile file, change line 16 (PYTHON variable) by your python path.
+4. Write:
 
                   make
                   
