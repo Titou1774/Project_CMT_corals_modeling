@@ -211,7 +211,7 @@ int main() {
 	
 	 
     double valeursUniquesPH[taillex * tailley];                         // Arrays to stock unique values of coral pH 
-    double santeAssociee[taillex * tailley];							// Arrays to stock unique values of coral health
+    double santeAssociee[taillex * tailley];				// Arrays to stock unique values of coral health
 
     int nombreValeursUniques = collecterValeursUniquesEtSante(
         acidite, sante, taillex * tailley, valeursUniquesPH, santeAssociee);
